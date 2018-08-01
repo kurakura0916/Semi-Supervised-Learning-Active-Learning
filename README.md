@@ -1,4 +1,4 @@
-# [WIP]Semi-Supervised-Learning-Active-Learning
+# Semi-Supervised-Learning-Active-Learning
 
 ## 概要
 MNISTデータを用いて半教師あり学習及びアクティブラーニングを行い、予測精度の上昇を確認する
